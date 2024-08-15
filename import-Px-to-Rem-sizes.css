@@ -1,0 +1,22 @@
+:root {
+  --background: #160238;
+  --padding-media: var(--s10px) 5%;
+  --padding: var(--s10px) 10%;
+  --color: #ef05f7;
+  --s-8px: -0.5rem;
+  --s-6px: -0.375rem;
+  --s0-1px: 0.006rem;
+  --s1px: 0.063rem;
+  --s3px: 0.188rem;
+  --s5px: 0.313rem;
+  --s6px: 0.375rem;
+  --s8px: 0.5rem;
+  --s10px: 0.625rem;
+  --s15px: 0.938rem;
+  --s18px: 1.125rem;
+  --s20px: 1.25rem;
+  --s25px: 1.563rem;
+  --s30px: 1.875rem;
+  --s40px: 2.5rem;
+  --s60px: 3.75rem;
+}
